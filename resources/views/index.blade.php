@@ -529,9 +529,11 @@
                             </div>
 
                             <div class="mt-5 pt-5">
+
+                                <span style="font-size: 2rem;">
                                 <i class="fab fa-facebook-square"></i>
                                 <i class="fab fa-twitter-square"></i>
-                                <i class="fab fa-xbox"></i>
+                             
                             </div>
                             <div>
                                 <button type="button" class="btn btn-secondary"

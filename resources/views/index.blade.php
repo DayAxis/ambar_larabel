@@ -57,9 +57,6 @@
     </div>
     <div class="slider-number"><span></span>/<b></b></div>
 </div>
-<div class="content">
-
-</div>
 
 <!-- Seccion conocenos inicia -->
 <section class="section section-first">
@@ -145,119 +142,119 @@
                     </div>
                 </div>
                 <!-- Collares -->
-                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
+                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/1.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
+                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/2.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
+                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/3.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
+                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/4.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Pulseras -->
-                <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Pulseras  graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/1.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Pulseras photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/2.jpeg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Pulseras photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/3.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Cabello -->
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Cucas.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Diadema.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Pasador.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Pasadores.jpeg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Dnegra.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Anillos -->
-                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos.jpeg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos2.jpg" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anilloajus.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos ajustables.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.6s">
+                <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos.png" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Complementos -->
-                <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Complementos/1.JPG" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.4s">
+                <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Complementos/2.JPG" alt="" class="resp-img">
                         <a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
@@ -282,22 +279,22 @@
 
 <!-- Seccion Banner 1 inicia-->
 
-<div class="top-baner smal-size">
-    <div class="block-bg top-image">
-        <div class="bg-wrap2">
-            <div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
-            <div class="white-mobile-layer"></div>
+    <div class="top-baner smal-size">
+        <div class="block-bg top-image">
+            <div class="bg-wrap2">
+                <div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
+                <div class="white-mobile-layer"></div>
 
+            </div>
         </div>
     </div>
-</div>
-</div>
-</div>
 
-<div class="content">
-    <!-- Seccion Banner 1 finaliza-->
 
-    <!-- Seccion como comprar inicia-->
+
+
+<!-- Seccion Banner 1 finaliza-->
+
+<!-- Seccion como comprar inicia-->
     <section class="section section-bg">
         <div class="container">
             <div class="row">
@@ -359,9 +356,9 @@
             </div>
         </div>
     </section>
-    <!-- Seccion como comprar finaliza-->
+<!-- Seccion como comprar finaliza-->
 
-    <!-- Seccion Banner 2 inicia-->
+<!-- Seccion Banner 2 inicia-->
 
     <section class="section padd-sm banner2">
         <div class="bg fix" style="background-color:#ef5b5b ;"></div>
@@ -381,7 +378,7 @@
     </section>
 <!-- Seccion Banner 2 finaliza-->
 
-<!-- Redes sociales (facebook) inicia -->
+<!-- Redes sociales  inicia -->
 
 <section class="section padd-sm">
     <div class="bg fix" style="background-image:url(img/9.jpg)"></div>
@@ -402,7 +399,7 @@
     </div>
 </section>
 
-<!-- Redes sociales (facebook) finaliza -->
+<!-- Redes sociales finaliza -->
 
 
 <!-- Dream Team inicia -->
@@ -494,7 +491,7 @@
     </div>
 </section>
 <!-- Contacto Whatsapp finaliza -->
-<!-- Button trigger modal -->
+
 
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal1">
@@ -552,6 +549,39 @@
     </div>
 </div>
 
+<div class="container">
+  <br>
+  <!-- Boton -->
+  <button data-toggle="modal" href="#mi_modal" class="btn btn-primary">Abrir ventana modal</button>
+  <br><br>
+  <!-- Link -->
+  <a data-toggle="modal" href="#mi_modal">Abrir ventana modal</a>
+
+  <!-- si se necesita cambiar tamaño de modal agregar modal-lg a la linea 
+  <div class="modal-dialog"> por <div class="modal-dialog modal-lg">-->
+
+  <!-- Modal-->
+  <div class="modal fade" id="mi_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span><span class="sr-only">Cerrar</span>
+          </button>
+          <h4 class="modal-title" id="myModalLabel">TITULO</h4>
+        </div>
+        <div class="modal-body">
+          <div class="row" style="padding:15px">
+            ESPACIO PARA TEXTO ESPACIO PARA TEXTO ESPACIO PARA TEXTO ESPACIO PARA TEXTO ESPACIO PARA TEXTO
+            ESPACIO PARA TEXTO                   
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 @endsection

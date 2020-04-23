@@ -6,13 +6,13 @@
 		     <div class="nav-menu-layer"><span></span></div>
 		     <div class="table-align">
 			   <ul class="nav-list cell-view">
-				<li class="active"><a href="index.html" class="drop-link">Home<div class="open-drop"><span></span><span></span></div></a>
+				<li class="active"><a href="index.html" class="drop-link">Home<div class="open-drop" tabindex="-1"><span></span><span></span></div></a>
 				</li>
-				<li><a href="#" class="drop-link">Conócenos<div class="open-drop"><span></span><span></span></div></a>
+				<li><a href="#conocenos" class="drop-link">Conócenos<div class="open-drop"><span></span><span></span></div></a>
 				</li>
-				<li><a href="#" class="drop-link">Accesorios<div class="open-drop"><span></span><span></span></div></a>
+				<li><a href="#accesorios" class="drop-link">Accesorios<div class="open-drop"><span></span><span></span></div></a>
 				</li>
-				<li><a href="#" class="drop-link">Redes Sociales<div class="open-drop"><span></span><span></span></div></a>
+				<li><a href="#redes sociales" class="drop-link">Redes Sociales<div class="open-drop"><span></span><span></span></div></a>
 				</li>
 			  </ul>
 			 </div> 

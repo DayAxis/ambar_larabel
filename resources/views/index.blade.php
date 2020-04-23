@@ -87,14 +87,14 @@
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="image wow zoomIn" data-wow-delay="0.8s"><img src="img/conocenos.jpg" alt="" class="resp-img"></div>
+                <div class="image wow zoomIn"  data-wow-delay="0.8s"><img src="img/conocenos.jpg" alt="" class="resp-img"></div>
             </div>
         </div>
     </div>
 </section>
 <!-- Seccion conocenos finaliza -->
 
-<section class="section">
+<section class="section" id="accesorios">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-3">
@@ -270,19 +270,17 @@
 <!-- Seccion categorias finaliza-->
 
 <!-- Seccion Banner 1 inicia-->
+    <section class="section padd-sm">
+        <div class="top-baner smal-size padding">
+            <div class="block-bg top-image">
+                <div class="bg-wrap2">
+                    <div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
+                    
 
-    <div class="top-baner smal-size">
-        <div class="block-bg top-image">
-            <div class="bg-wrap2">
-                <div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
-                <div class="white-mobile-layer"></div>
-
+                </div>
             </div>
         </div>
-    </div>
-
-
-
+    </section>
 
 <!-- Seccion Banner 1 finaliza-->
 
@@ -372,7 +370,7 @@
 
 <!-- Redes sociales  inicia -->
 
-<section class="section padd-sm">
+<section class="section padd-sm" id="redes sociales">
     <div class="bg fix" style="background-image:url(img/rs.jpg)"></div>
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
@@ -498,7 +496,7 @@
                         <div class="col-md-6 ml-auto">
                             <!-- izquierda -->
                             <div class="container-fluid1">
-                                <img src="img/13.jpg" alt="" class="resp-img">
+                                <img src="img/modal.jpg" alt="" class="resp-img">
                             </div>
 
                         </div>

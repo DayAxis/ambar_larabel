@@ -241,7 +241,7 @@ body.fix {overflow: hidden;}
 .content {position: relative; width: 100%; padding: 0px 100px;}
 .content.no-padd {padding: 0px;}
 .content.top-padd {padding: 100px 0px 0px;}
-.section {padding: 50px 0px; position: relative;}
+.section {padding: 20px 0px; position: relative;}
 .section-first.section {padding-top: 0px;}
 .section.section-box {padding: 185px 0px; margin: 0px 100px 100px;}
 .section.section-box.no-margin {margin-bottom: 0px;}
@@ -977,8 +977,8 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 
 }
 .banner2{
-	margin-top: 70px;
-	margin-bottom: 70px;	
+	margin-top: 0px;
+	margin-bottom: 0px;	
 }
 
 .pbanner{
@@ -988,4 +988,7 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 }
 .margin{
 	margin:0% 10% 0% 0%;
+}
+.paddig{
+	padding:0px 0px
 }

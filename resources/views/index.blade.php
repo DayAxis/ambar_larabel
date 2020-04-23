@@ -100,7 +100,7 @@
             <div class="col-md-2 col-sm-3">
                 <div class="title-style-2 wow zoomIn" data-wow-delay="0.2s">
                     <div class="sub-title">
-                        <h5 class="h5">Acessorios</h5>
+                        <h5 class="h5">Accesorios</h5>
                     </div>
                 </div>
             </div>

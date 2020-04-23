@@ -13,7 +13,7 @@
             <div class="swiper-slide first-slide" data-val="0">
                 <div class="block-bg">
                     <div class="bg-wrap">
-                        <div class="bg" style="background-image:url( 'img/10.jpg')"></div>
+                        <div class="bg" style="background-image:url( 'img/carrusel1.jpg')"></div>
                         <div class="white-mobile-layer"></div>
                     </div>
                     <div class="title-style-1 vertical-align">
@@ -27,7 +27,7 @@
             <div class="swiper-slide" data-val="1">
                 <div class="block-bg">
                     <div class="bg-wrap">
-                        <div class="bg" style="background-image:url('/img/11.jpg')"></div>
+                        <div class="bg" style="background-image:url('/img/carrusel2.jpg')"></div>
                         <div class="white-mobile-layer"></div>
                     </div>
                     <div class="title-style-1 vertical-align">
@@ -41,7 +41,7 @@
             <div class="swiper-slide" data-val="2">
                 <div class="block-bg">
                     <div class="bg-wrap">
-                        <div class="bg" style="background-image:url('/img/12.jpg')"></div>
+                        <div class="bg" style="background-image:url('/img/carrusel3.jpg')"></div>
                         <div class="white-mobile-layer"></div>
                     </div>
                     <div class="title-style-1 vertical-align">
@@ -87,7 +87,7 @@
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="image wow zoomIn" data-wow-delay="0.8s"><img src="img/3.jpg" alt="" class="resp-img"></div>
+                <div class="image wow zoomIn" data-wow-delay="0.8s"><img src="img/conocenos.jpg" alt="" class="resp-img"></div>
             </div>
         </div>
     </div>
@@ -373,10 +373,10 @@
 <!-- Redes sociales  inicia -->
 
 <section class="section padd-sm">
-    <div class="bg fix" style="background-image:url(img/9.jpg)"></div>
+    <div class="bg fix" style="background-image:url(img/rs.jpg)"></div>
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
-            <img src="static/img/8.jpg" alt="">
+            <img src="static/img/rs.jpg" alt="">
             <h6 class="h7 title">Síguenos</h6>
             <div class="simple-text">
                 <p>Encuentra nuestros productos y conoce más de ÁMBAR en el día a día</p>
@@ -401,18 +401,18 @@
             <div class="col-md-2 col-sm-3">
                 <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
                     <div class="sub-title">
-                        <h5 class="h5">Version 3</h5>
+                        <h5 class="h5">Equipo</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-10 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text md">
-                        <p>We’ve a dedicated team of <a href="#" class="font-type">Qualified Professionals</a> with deep
+                        <p>We’ve a dedicated team of Qualified Professionals with deep
                             industry experience and technical expertise to manage a multitude of tasks ranging in
                             complexity and size. </p>
                     </div>
-                    <a href="#" class="link-type-1">Learn More<i class="icon-right-open-mini"></i></a>
+                    
                 </div>
             </div>
         </div>
@@ -424,7 +424,7 @@
                     <div class="swiper-slide">
                         <div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
                             <div class="team-item item-hov">
-                                <img src="img/7.jpg" alt="" class="resp-img">
+                                <img src="img/lic.jpg" alt="" class="resp-img">
                                 <div class="team-desc item-layer">
                                     <div class="vertical-align w-full">
                                         <h4 class="h4"><a href="#">Martha Jones</a></h4>

@@ -468,7 +468,7 @@
                     <input placeholder="Your Name" class="input-field" name="name" required="" type="text">
                     <input placeholder="Your Emaill" class="input-field" name="email" required="" type="email">
                     <textarea placeholder="Your Message" class="input-field" name="message"></textarea>
-                    <input value="Send" class="input-send submit" type="submit" name="submit">
+                    <input value="Send" class="input-send submit margin" type="submit" name="submit">
                 </form>
                 <div class="success">
                     <div class="popup">

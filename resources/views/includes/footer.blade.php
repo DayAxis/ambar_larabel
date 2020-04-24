@@ -13,7 +13,6 @@
 <footer>
     <div class="copyright">
         <img src="" class="resp-img" alt="">
-        <span>© Desarrolado por Suftware. 
-<?php echo date("Y"); ?></span>
+        <a href="http://surftware.company" target="_blank"><span>© <?php echo date("Y"); ?> Desarrolado por Suftware</span></a>
     </div>	
 </footer>

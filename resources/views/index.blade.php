@@ -270,18 +270,15 @@
 <!-- Seccion categorias finaliza-->
 
 <!-- Seccion Banner 1 inicia-->
-    <section class="section padd-sm">
-        <div class="top-baner smal-size padding">
-            <div class="block-bg top-image">
-                <div class="bg-wrap2">
-                    <div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
-                    
-
-                </div>
+ <section class="section paddigbanner banner2">
+        
+        <div class="bg fx" style="background-image:url(img/ban1.jpeg)"></div>
+        <div class="container">
+            <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
+               
             </div>
         </div>
     </section>
-
 <!-- Seccion Banner 1 finaliza-->
 
 <!-- Seccion como comprar inicia-->

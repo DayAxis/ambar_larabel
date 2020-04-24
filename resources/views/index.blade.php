@@ -381,7 +381,7 @@
             <div class="clear"></div>
             <a href="#" class="link-type-2"><span>Seguir Facebook</span></a>
             <a href="#" class="link-type-2"><span>Seguir Instagram</span></a>
-            <a href="#" class="link-type-2"><span>Contacto Whatsapp</span></a>
+            <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola" class="link-type-2"><span>Contacto Whatsapp</span></a>
         </div>
     </div>
 </section>
@@ -535,12 +535,10 @@
                                 <span style="font-size: 2rem;">
                                 <i class="fab fa-facebook-square"></i>
                                 <i class="fab fa-twitter-square"></i>
-                             
-                            </div>
-                            <div>
-                                <button type="button" class="btn btn-secondary"
-                                    data-dismiss="modal">Whatsapp/Contacto</button>
+                                <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                                    
                             </div>
 
                         </div>

@@ -6,7 +6,7 @@
           <div class="folow-icon">
               <a href="#"><i class="fab fa-facebook-f"></i></a>
               <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a> 
+              <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp"></i></a> 
           </div> 
     </div>	
 </section>

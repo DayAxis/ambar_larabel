@@ -1,4 +1,4 @@
-<section class="section section-bg padd-xs">
+<section class="section section-bg padding">
     <div class="container">
           <a href="index.html" class="footer-logo">
              <img src="img/logo_ambar.png" alt="">

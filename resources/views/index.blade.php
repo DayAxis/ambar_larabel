@@ -135,7 +135,7 @@
                         <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
+                <div class="item wh-50 Aretes photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Aretes/1.png" alt="" class="resp-img">
                         <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
@@ -148,7 +148,7 @@
                         <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
-                <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
+                <div class="item wh-50 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/2.png" alt="" class="resp-img">
                         <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
@@ -186,7 +186,7 @@
                     </div>
                 </div>
                 <!-- Cabello -->
-                <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
+                <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Cucas.jpg" alt="" class="resp-img">
                         <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
@@ -390,55 +390,77 @@
 
 
 <!-- Dream Team inicia -->
-<section class="section poind-closest border-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2 col-sm-3">
-                <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
-                    <div class="sub-title">
-                        <h5 class="h5">Equipo</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-10 col-sm-9">
-                <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
-                    <div class="simple-text md">
-                        <p>We’ve a dedicated team of Qualified Professionals with deep
-                            industry experience and technical expertise to manage a multitude of tasks ranging in
-                            complexity and size. </p>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="swiper-container team-slider" data-autoplay="5000" data-loop="0" data-speed="1000"
-                data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2"
-                data-md-slides="3" data-lg-slides="3" data-add-slides="3">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
-                            <div class="team-item item-hov">
-                                <img src="img/lic.jpg" alt="" class="resp-img">
-                                <div class="team-desc item-layer">
-                                    <div class="vertical-align w-full">
-                                        <h4 class="h4"><a href="#">Martha Jones</a></h4>
-                                        <span>Design Lead</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="pagination point-style alb-point"></div>
-</section>
+ <section class="section poind-closest border-top">
+        	<div class="container">
+			 <div class="row">
+			   <div class="col-md-2 col-sm-3">
+					<div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
+					   <div class="sub-title">
+						  <h5 class="h5">Equipo</h5>
+					   </div>
+					</div>
+			   </div>
+			   <div class="col-md-10 col-sm-9">
+				 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
+					<div class="simple-text md">
+					   <p>We’ve a dedicated team of Qualified Professionals with deep industry experience and technical expertise to manage a multitude of tasks ranging in complexity and size. </p>
+					</div>
+					
+				 </div>   
+			   </div>
+			 </div>
+			<div class="row">
+			 <div class="swiper-container team-slider" data-autoplay="5000" data-loop="0" data-speed="1000" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="3" data-add-slides="3">
+			   <div class="swiper-wrapper">
+				  <div class="swiper-slide">
+				    <div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
+					 <div class="team-item item-hov">
+						<img src="img/lic.jpg" alt="" class="resp-img">
+						<div class="team-desc item-layer">
+						  <div class="vertical-align w-full">
+							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							  <span>Design Lead</span>
+						  </div>	  
+						</div>
+					 </div>	
+				    </div>
+				  </div>
+				  <div class="swiper-slide">
+				   <div class="padd-wrap wow zoomIn" data-wow-delay="0.4s">
+					 <div class="team-item item-hov">
+						<img src="img/lic2.jpg" alt="" class="resp-img">
+						<div class="team-desc item-layer">
+						  <div class="vertical-align w-full">
+							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							  <span>Design Lead</span>
+						  </div>	  
+						</div>
+					 </div>
+				    </div>
+				  </div>
+				  <div class="swiper-slide">
+				    <div class="padd-wrap wow zoomIn" data-wow-delay="0.6s">
+					 <div class="team-item item-hov">
+						<img src="img/lic3.jpg" alt="" class="resp-img">
+						<div class="team-desc item-layer">
+						  <div class="vertical-align w-full">
+							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							  <span>Design Lead</span>
+						  </div>	  
+						</div>
+					 </div>
+					</div>
+				  </div>
+			   </div>
+		     </div>
+		   </div>
+		 </div>
+		 <div class="pagination point-style alb-point"></div>		
+		</section> 
 <!-- Dream Team finaliza -->
 
 <!-- Contacto Whatsapp -->
-<section class="section  section-box section-scroll" style="background-color: #C89FEB;">
+<section class="section margincontacto section-scroll" style="background-color: #C89FEB;">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-3">
@@ -501,14 +523,14 @@
                         <div class="col-md-6 ml-auto">
                             <!-- derecha -->
                             <div class="sub-title">
-                                <h5 class="h5">Productos!</h5>
+                                <h5 class="h5">Productos</h5>
                             </div>
                             <div class="simple-text lg">
-                                <p><a href="#" class="font-type">ÁMBAR</a> está dedicado a las personas que quieren
+                                <p> ÁMBAR está dedicado a las personas que quieren
                                     resaltar su esencia a través de los accesorios. </p>
                             </div>
 
-                            <div class="mt-5 pt-5">
+                            <div class="sub-title2">
 
                                 <span style="font-size: 2rem;">
                                 <i class="fab fa-facebook-square"></i>

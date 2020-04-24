@@ -2,11 +2,11 @@
 @section("contenido")
 <div class="loader">
     <div class="load-title">
-        <img src="{% static 'img/logo_ambar.png' %}" alt="">
+        <img src="img/logo_ambar.png" alt="">
         <div class="load-circle"></div>
     </div>
 </div>
-<div class="top-baner bottom-margin swiper-anime slide-arow poind-closest">
+<div class="top-baner bottom-margin swiper-anime slide-arow poind-closest" id="home">
     <div class="swiper-container top-slider" data-autoplay="0" data-loop="0" data-speed="600" data-center="0"
         data-slides-per-view="1">
         <div class="swiper-wrapper">
@@ -59,7 +59,7 @@
 </div>
 
 <!-- Seccion conocenos inicia -->
-<section class="section section-first">
+<section class="section section-first" id="conocenos">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-3">

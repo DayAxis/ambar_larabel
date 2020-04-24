@@ -4,9 +4,9 @@
              <img src="img/logo_ambar.png" alt="">
           </a> 
           <div class="folow-icon">
-              <a href="#"><i class="fab fa-facebook-f"></i></a>
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp"></i></a> 
+              <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
+              <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
+              <a class="botonwhats" href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
           </div> 
     </div>	
 </section>

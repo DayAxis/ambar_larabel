@@ -508,7 +508,7 @@
 <div class="modal fade" id="modal1" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-
+        
             <div class="modal-body">
                 <div class="container-fluid">
                     <div class="row">
@@ -519,7 +519,9 @@
                             </div>
 
                         </div>
-
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
                         <div class="col-md-6 ml-auto">
                             <!-- derecha -->
                             <div class="sub-title">
@@ -533,10 +535,10 @@
                             <div class="sub-title2">
 
                                 <span style="font-size: 2rem;">
-                                <i class="fab fa-facebook-square"></i>
-                                <i class="fab fa-twitter-square"></i>
-                                <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
+                                <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
+                                <a class="botonwhats" href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
+                                
                             </div>
                                     
                             </div>

@@ -1008,3 +1008,16 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 .margincontacto { 
 	margin: 0px 0px 0px;
 }
+.botonwhats{
+	color:#25D366;
+}
+.botonfacebook{
+	color:#3b5998 ;
+}
+.botontwitter{
+	color: #00acee ;
+}
+.folow-icon2 {
+	text-align: center; 
+	position: relative;
+}

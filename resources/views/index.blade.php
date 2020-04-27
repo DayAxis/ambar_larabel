@@ -282,7 +282,7 @@
 <!-- Seccion Banner 1 finaliza-->
 
 <!-- Seccion como comprar inicia-->
-    <section class="section section-bg">
+    <section class="section section-bg padingcomprar">
         <div class="container">
             <div class="row">
                 <div class="col-md-2 col-sm-3">
@@ -308,7 +308,8 @@
                             <h4 class="h4">Elige tu accesorio:</h4>
                         </div>
                         <div class="simple-text">
-                            <p> Selecciona las piezas que deseas comprar y ponte en contacto vía Whatsapp o en nuestras
+                            <p> Selecciona las piezas que deseas comprar y ponte en contacto 
+                                vía Whatsapp o en nuestras
                                 redes sociales.</p>
                         </div>
 
@@ -337,7 +338,7 @@
                             <p>Recibimos transferencias, pagos vía Oxxo o en efectivo a contraentrega. Elige el que
                                 mejor te quede.</p>
                         </div>
-                        <a href="#" class="link-type-1">Contacto<i class="icon-right-open-mini"></i></a>
+                        <a href="#contacto" class="link-type-1">Contacto<i class="icon-right-open-mini"></i></a>
                     </div>
                 </div>
             </div>
@@ -352,9 +353,9 @@
         <div class="container">
             <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
                 
-                <h6 class="h7 title">banner2</h6>
-                <div class="simple-text">
-                    <p>banner2</p>
+                <h6 class="h2 title">banner2</h6>
+                <div class="">
+                    <p class="textbanner">banner2</p>
                 </div>
 
 
@@ -418,7 +419,7 @@
 						<img src="img/lic.jpg" alt="" class="resp-img">
 						<div class="team-desc item-layer">
 						  <div class="vertical-align w-full">
-							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							<h4 class="h4"><a>Martha Jones</a></h4>
 							  <span>Design Lead</span>
 						  </div>	  
 						</div>
@@ -431,7 +432,7 @@
 						<img src="img/lic2.jpg" alt="" class="resp-img">
 						<div class="team-desc item-layer">
 						  <div class="vertical-align w-full">
-							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							<h4 class="h4"><a>Martha Jones</a></h4>
 							  <span>Design Lead</span>
 						  </div>	  
 						</div>
@@ -444,7 +445,7 @@
 						<img src="img/lic3.jpg" alt="" class="resp-img">
 						<div class="team-desc item-layer">
 						  <div class="vertical-align w-full">
-							<h4 class="h4"><a href="#">Martha Jones</a></h4>
+							<h4 class="h4"><a>Martha Jones</a></h4>
 							  <span>Design Lead</span>
 						  </div>	  
 						</div>
@@ -460,23 +461,23 @@
 <!-- Dream Team finaliza -->
 
 <!-- Contacto Whatsapp -->
-<section class="section margincontacto section-scroll" style="background-color: #C89FEB;">
+<section class="section margincontacto section-scroll" style="background-color: #C89FEB;" id="contacto">
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-3">
                 <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
                     <div class="sub-title">
-                        <h5 class="h5">Get in touch</h5>
+                        <h5 class="h5">Contacto</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text lg">
-                        <p>We’re always excited for <a href="#" class="font-type">New Projects</a> and partners. So, hit
+                        <p>We’re always excited for New Projects and partners. So, hit
                             us up with an email or just just say Hello.</p>
                     </div>
-                    <a href="#" class="link-type-1">contact us<i class="icon-right-open-mini"></i></a>
+                   
                 </div>
             </div>
             <div class="col-md-7 col-sm-12">
@@ -520,8 +521,8 @@
 
                         </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+                        <span aria-hidden="true">&times;</span>
+                        </button>
                         <div class="col-md-6 ml-auto">
                             <!-- derecha -->
                             <div class="sub-title">

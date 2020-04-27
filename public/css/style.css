@@ -368,8 +368,8 @@ body.fix {overflow: hidden;}
 .folow-item .title {padding-bottom: 10px;}
 .folow-icon {text-align: center; position: relative;}
 .folow-icon.right-side {float: right;display:block; padding: 45px 0px 0px;}
-.folow-icon a {display: inline-block; font-size: 16px; margin: 0px 5px; color: #c6c8cc;}
-.folow-icon i {display: block; width: 30px; height: 20px; overflow: hidden; position: relative;}
+.folow-icon a {display: inline-block; font-size: 20px; margin: 0px 5px; }
+.folow-icon i {display: block; width: 40px; height: 35px; overflow: hidden; position: relative;}
 .folow-icon i:after {position: absolute; left: -20px; top: 0px;content: ''; font-family: "fontello"; font-size: 16px; color: #272b2b; transition:all 0.3s ease-out; -webkit-transition:all 0.3s ease-out;}
 .folow-icon i:before {transition:all 0.3s ease-out; -webkit-transition:all 0.3s ease-out;}
 .folow-icon .icon-facebook:after {content: '\e800';}
@@ -581,7 +581,7 @@ body.fix {overflow: hidden;}
 .section.section-slider .block-bg .bg-wrap {top: 0px;}
 .padd-wrap {padding: 0px 15px;}
 .team-slider {margin-top: 50px;}
-.input-field {position: relative; display: inline-block; width: 90%; height: 40px; border: 1px solid #dfe2e7; background: #fff; padding: 0px 15px; font-size: 13px; font-weight: 400; line-height: 42px; margin-bottom: 20px; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
+.input-field {position: relative; display: inline-block; width: 95%; height: 40px; border: 1px solid #dfe2e7; background: #fff; padding: 0px 15px; font-size: 13px; font-weight: 400; line-height: 42px; margin-bottom: 20px; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
 .input-field:focus {background: #F5F5F5; border-color: #F5F5F5;}
 textarea.input-field {height: 100px; resize: none;}
 .input-send {position: relative; float: right; padding: 0px 35px; line-height: 42px; font-weight: 700; font-size: 13px; color: #272b2b; height: 40px; border: 1px solid #dfe2e7; display: inline-block; text-align: center; background: #fff; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
@@ -1020,4 +1020,10 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 .folow-icon2 {
 	text-align: center; 
 	position: relative;
+}
+.padingcomprar{
+	padding: 60px 0px;
+}
+.textbanner{
+	font-size: 20px;
 }

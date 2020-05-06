@@ -483,16 +483,16 @@
             <div class="col-md-7 col-sm-12">
                 <form action="/" onsubmit="return submitForm();" method="post" name="contactform"
                     class="contact-form wow zoomIn" data-wow-delay="0.6s" id="contact-form">
-                    <input placeholder="Your Name" class="input-field" name="name" required="" type="text">
-                    <input placeholder="Your Emaill" class="input-field" name="email" required="" type="email">
-                    <textarea placeholder="Your Message" class="input-field" name="message"></textarea>
+                    <input placeholder="Tu nombre" class="input-field" name="name" required="" type="text">
+                    <input placeholder="Correo" class="input-field" name="email" required="" type="email">
+                    <textarea placeholder="Mensaje" class="input-field" name="message"></textarea>
                     <input value="Send" class="input-send submit margin" type="submit" name="submit">
                 </form>
                 <div class="success">
                     <div class="popup">
                         <div class="close-popup"><span>+</span></div>
                         <div class="cell-view">
-                            <h4 class="h4">Your message was sent successfully</h4>
+                            <h4 class="h4">Tu mensaje enviado</h4>
                         </div>
                     </div>
                 </div>

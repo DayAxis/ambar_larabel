@@ -4,4 +4,5 @@
 		<!--<script src="js/jquery.scrollify.min.js"></script> -->
         <script src="js/wow.min.js" type="text/javascript"></script>
 		<script src="js/all.js" type="text/javascript"></script>
-		<script src="js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="js/bootstrap.min.js" type="text/javascript"></script><!--boostrap 3.3.6 --> 
+		<script src="js/jquey.min.js" type="text/javascript"></script><!--boostrap 3.3.6 --> 

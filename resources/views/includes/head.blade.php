@@ -7,7 +7,7 @@
             <link rel="stylesheet" type="text/css" href="css/animate.css" />
             <link rel="stylesheet" type="text/css" href="css/idangerous.swiper.css"/>   
             <link rel="stylesheet" type="text/css" href="css/style.css"/>
-            <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>  
+            <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/> <!--boostrap 3.3.6 --> 
             <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
                 
             

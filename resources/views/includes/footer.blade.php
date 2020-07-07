@@ -1,19 +1,18 @@
-<section class="section section-bg padd-xs">
+<section class="section section-bg padding">
     <div class="container">
           <a href="index.html" class="footer-logo">
              <img src="img/logo_ambar.png" alt="">
           </a> 
           <div class="folow-icon">
-              <a href="#"><i class="fab fa-facebook-f"></i></a>
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a> 
+              <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
+              <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
+              <a class="botonwhats" href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
           </div> 
     </div>	
 </section>
 <footer>
     <div class="copyright">
         <img src="" class="resp-img" alt="">
-        <span>© Desarrolado por Suftware.<img src="img/author_site.png" alt=""> 
-<?php echo date("Y"); ?></span>
+        <a href="http://surftware.company" target="_blank"><span>© <?php echo date("Y"); ?> Desarrolado por Suftware</span></a>
     </div>	
 </footer>

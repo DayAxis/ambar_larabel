@@ -241,7 +241,7 @@ body.fix {overflow: hidden;}
 .content {position: relative; width: 100%; padding: 0px 100px;}
 .content.no-padd {padding: 0px;}
 .content.top-padd {padding: 100px 0px 0px;}
-.section {padding: 50px 0px; position: relative;}
+.section {padding: 20px 0px; position: relative;}
 .section-first.section {padding-top: 0px;}
 .section.section-box {padding: 185px 0px; margin: 0px 100px 100px;}
 .section.section-box.no-margin {margin-bottom: 0px;}
@@ -368,8 +368,8 @@ body.fix {overflow: hidden;}
 .folow-item .title {padding-bottom: 10px;}
 .folow-icon {text-align: center; position: relative;}
 .folow-icon.right-side {float: right;display:block; padding: 45px 0px 0px;}
-.folow-icon a {display: inline-block; font-size: 16px; margin: 0px 5px; color: #c6c8cc;}
-.folow-icon i {display: block; width: 30px; height: 20px; overflow: hidden; position: relative;}
+.folow-icon a {display: inline-block; font-size: 20px; margin: 0px 5px; }
+.folow-icon i {display: block; width: 40px; height: 35px; overflow: hidden; position: relative;}
 .folow-icon i:after {position: absolute; left: -20px; top: 0px;content: ''; font-family: "fontello"; font-size: 16px; color: #272b2b; transition:all 0.3s ease-out; -webkit-transition:all 0.3s ease-out;}
 .folow-icon i:before {transition:all 0.3s ease-out; -webkit-transition:all 0.3s ease-out;}
 .folow-icon .icon-facebook:after {content: '\e800';}
@@ -389,7 +389,7 @@ body.fix {overflow: hidden;}
 .footer-item ul li a:hover {color: #272b2b;}
 .footer-item.fr {text-align: right;}
 
-.copyright {text-align: center; padding: 45px 0px; position: relative;}
+.copyright {text-align: center; padding: 10px 0px; position: relative;}
 .copyright.left-side {display: block; float: left;}
 .load-item {display: none;}
 .no-item {display: none; font-size: 12px; text-transform: uppercase; font-weight: 700; line-height: 50px;}
@@ -581,7 +581,7 @@ body.fix {overflow: hidden;}
 .section.section-slider .block-bg .bg-wrap {top: 0px;}
 .padd-wrap {padding: 0px 15px;}
 .team-slider {margin-top: 50px;}
-.input-field {position: relative; display: inline-block; width: 100%; height: 40px; border: 1px solid #dfe2e7; background: #fff; padding: 0px 15px; font-size: 13px; font-weight: 400; line-height: 42px; margin-bottom: 20px; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
+.input-field {position: relative; display: inline-block; width: 95%; height: 40px; border: 1px solid #dfe2e7; background: #fff; padding: 0px 15px; font-size: 13px; font-weight: 400; line-height: 42px; margin-bottom: 20px; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
 .input-field:focus {background: #F5F5F5; border-color: #F5F5F5;}
 textarea.input-field {height: 100px; resize: none;}
 .input-send {position: relative; float: right; padding: 0px 35px; line-height: 42px; font-weight: 700; font-size: 13px; color: #272b2b; height: 40px; border: 1px solid #dfe2e7; display: inline-block; text-align: center; background: #fff; transition:all 0.35s ease-out; -webkit-transition:all 0.35s ease-out;}
@@ -977,12 +977,53 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 
 }
 .banner2{
-	margin-top: 70px;
-	margin-bottom: 70px;	
+	margin-top: 0px;
+	margin-bottom: 0px;	
 }
 
 .pbanner{
 	font-size: 200%;
 	margin: auto;
 	
+}
+.margin{
+	margin:0% 10% 0% 0%;
+}
+.paddig{
+	padding:0px 0px
+}
+.paddigbanner{
+	padding:120px 0px
+}
+
+.sub-title2 {
+	max-width: 170px; 
+	width: 100%; 
+	position: relative; 
+	text-align: left; 
+	display: block; 
+	padding-bottom: 15px;
+	
+}
+.margincontacto { 
+	margin: 0px 0px 0px;
+}
+.botonwhats{
+	color:#25D366;
+}
+.botonfacebook{
+	color:#3b5998 ;
+}
+.botontwitter{
+	color: #00acee ;
+}
+.folow-icon2 {
+	text-align: center; 
+	position: relative;
+}
+.padingcomprar{
+	padding: 60px 0px;
+}
+.textbanner{
+	font-size: 20px;
 }

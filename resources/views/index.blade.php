@@ -87,7 +87,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="image wow zoomIn"  data-wow-delay="0.8s"><img src="img/conocenos.jpg" alt="" class="resp-img"></div>
+                <div class="image wow zoomIn" data-wow-delay="0.8s"><img src="img/conocenos.jpg" alt=""
+                        class="resp-img"></div>
             </div>
         </div>
     </div>
@@ -126,138 +127,160 @@
                 <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Aretes/Arracadas.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Aretes/Aretes tornasol.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-50 Aretes photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Aretes/1.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Collares -->
                 <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/1.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-50 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/2.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/3.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Collares/4.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Pulseras -->
                 <div class="item wh-25 Pulseras  graphic wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/1.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Pulseras photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/2.jpeg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Pulseras photo wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Pulseras/3.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Cabello -->
                 <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Cucas.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Diadema.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Pasador.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Pasadores.jpeg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Cabello/Dnegra.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Anillos -->
                 <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos.jpeg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos2.jpg" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anilloajus.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos ajustables.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Anillos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Anillos/Anillos.png" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <!-- Complementos -->
                 <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Complementos/1.JPG" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
                 <div class="item wh-25 Complementos ux wow zoomIn" data-wow-delay="0.2s">
                     <div class="item-drid-size">
                         <img src="img/Complementos/2.JPG" alt="" class="resp-img">
-                        <a data-toggle="modal" data-target="#modal1" class="link-wrap item-hov"><span></span><span></span></a>
+                        <a data-toggle="modal" data-target="#modal1"
+                            class="link-wrap item-hov"><span></span><span></span></a>
                     </div>
                 </div>
             </div>
@@ -270,100 +293,100 @@
 <!-- Seccion categorias finaliza-->
 
 <!-- Seccion Banner 1 inicia-->
- <section class="section paddigbanner banner2">
-        
-        <div class="bg fx" style="background-image:url(img/ban1.jpeg)"></div>
-        <div class="container">
-            <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
-               
-            </div>
+<section class="section paddigbanner banner2">
+
+    <div class="bg fx" style="background-image:url(img/ban1.jpeg)"></div>
+    <div class="container">
+        <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
+
         </div>
-    </section>
+    </div>
+</section>
 <!-- Seccion Banner 1 finaliza-->
 
 <!-- Seccion como comprar inicia-->
-    <section class="section section-bg padingcomprar">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2 col-sm-3">
-                    <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
-                        <div class="sub-title">
-                            <h5 class="h5">Como comprar</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-10 col-sm-9">
-                    <div class="quote wow zoomIn" data-wow-delay="0.3s">
-                        <p>“Siempre he pesnado en los accesorios, como el punto de exclamacion de un oufit femenino.”
-                        </p>
-                        <h6 class="h6">- Michael Kors</h6>
+<section class="section section-bg padingcomprar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-sm-3">
+                <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
+                    <div class="sub-title">
+                        <h5 class="h5">Como comprar</h5>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                        <img src="img/service_icon_1.png" alt="">
-                        <div class="title">
-                            <h4 class="h4">Elige tu accesorio:</h4>
-                        </div>
-                        <div class="simple-text">
-                            <p> Selecciona las piezas que deseas comprar y ponte en contacto 
-                                vía Whatsapp o en nuestras
-                                redes sociales.</p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                        <img src="img/service_icon_1.png" alt="">
-                        <div class="title">
-                            <h4 class="h4">Punto de entrega:</h4>
-                        </div>
-                        <div class="simple-text">
-                            <p> Selecciona un punto público para recibir tus accesorios. No tenemos tienda física,
-                                hacemos entregas en diferentes puntos de Pachuca y/o CD.MX.</p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                        <img src="img/service_icon_1.png" alt="">
-                        <div class="title">
-                            <h4 class="h4">Método de pago:</h4>
-                        </div>
-                        <div class="simple-text">
-                            <p>Recibimos transferencias, pagos vía Oxxo o en efectivo a contraentrega. Elige el que
-                                mejor te quede.</p>
-                        </div>
-                        <a href="#contacto" class="link-type-1">Contacto<i class="icon-right-open-mini"></i></a>
-                    </div>
+            <div class="col-md-10 col-sm-9">
+                <div class="quote wow zoomIn" data-wow-delay="0.3s">
+                    <p>“Siempre he pesnado en los accesorios, como el punto de exclamacion de un oufit femenino.”
+                    </p>
+                    <h6 class="h6">- Michael Kors</h6>
                 </div>
             </div>
         </div>
-    </section>
+        <div class="row">
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
+                    <img src="img/service_icon_1.png" alt="">
+                    <div class="title">
+                        <h4 class="h4">Elige tu accesorio:</h4>
+                    </div>
+                    <div class="simple-text">
+                        <p> Selecciona las piezas que deseas comprar y ponte en contacto
+                            vía Whatsapp o en nuestras
+                            redes sociales.</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
+                    <img src="img/service_icon_1.png" alt="">
+                    <div class="title">
+                        <h4 class="h4">Punto de entrega:</h4>
+                    </div>
+                    <div class="simple-text">
+                        <p> Selecciona un punto público para recibir tus accesorios. No tenemos tienda física,
+                            hacemos entregas en diferentes puntos de Pachuca y/o CD.MX.</p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
+                    <img src="img/service_icon_1.png" alt="">
+                    <div class="title">
+                        <h4 class="h4">Método de pago:</h4>
+                    </div>
+                    <div class="simple-text">
+                        <p>Recibimos transferencias, pagos vía Oxxo o en efectivo a contraentrega. Elige el que
+                            mejor te quede.</p>
+                    </div>
+                    <a href="#contacto" class="link-type-1">Contacto<i class="icon-right-open-mini"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Seccion como comprar finaliza-->
 
 <!-- Seccion Banner 2 inicia-->
 
-    <section class="section padd-sm banner2">
-        <div class="bg fix" style="background-color:#ef5b5b ;"></div>
-        <div class="container">
-            <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
-                
-                <h6 class="h2 title">banner2</h6>
-                <div class="">
-                    <p class="textbanner">banner2</p>
-                </div>
+<section class="section padd-sm banner2">
+    <div class="bg fix" style="background-color:#ef5b5b ;"></div>
+    <div class="container">
+        <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 
-
-                <div class="clear"></div>
-               
+            <h6 class="h2 title">banner2</h6>
+            <div class="">
+                <p class="textbanner">banner2</p>
             </div>
+
+
+            <div class="clear"></div>
+
         </div>
-    </section>
+    </div>
+</section>
 <!-- Seccion Banner 2 finaliza-->
 
 <!-- Redes sociales  inicia -->
@@ -382,7 +405,8 @@
             <div class="clear"></div>
             <a href="#" class="link-type-2"><span>Seguir Facebook</span></a>
             <a href="#" class="link-type-2"><span>Seguir Instagram</span></a>
-            <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola" class="link-type-2"><span>Contacto Whatsapp</span></a>
+            <a href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola" class="link-type-2"><span>Contacto
+                    Whatsapp</span></a>
         </div>
     </div>
 </section>
@@ -391,73 +415,76 @@
 
 
 <!-- Dream Team inicia -->
- <section class="section poind-closest border-top">
-        	<div class="container">
-			 <div class="row">
-			   <div class="col-md-2 col-sm-3">
-					<div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
-					   <div class="sub-title">
-						  <h5 class="h5">Equipo</h5>
-					   </div>
-					</div>
-			   </div>
-			   <div class="col-md-10 col-sm-9">
-				 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
-					<div class="simple-text md">
-					   <p>We’ve a dedicated team of Qualified Professionals with deep industry experience and technical expertise to manage a multitude of tasks ranging in complexity and size. </p>
-					</div>
-					
-				 </div>   
-			   </div>
-			 </div>
-			<div class="row">
-			 <div class="swiper-container team-slider" data-autoplay="5000" data-loop="0" data-speed="1000" data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="3" data-add-slides="3">
-			   <div class="swiper-wrapper">
-				  <div class="swiper-slide">
-				    <div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
-					 <div class="team-item item-hov">
-						<img src="img/lic.jpg" alt="" class="resp-img">
-						<div class="team-desc item-layer">
-						  <div class="vertical-align w-full">
-							<h4 class="h4"><a>Martha Jones</a></h4>
-							  <span>Design Lead</span>
-						  </div>	  
-						</div>
-					 </div>	
-				    </div>
-				  </div>
-				  <div class="swiper-slide">
-				   <div class="padd-wrap wow zoomIn" data-wow-delay="0.4s">
-					 <div class="team-item item-hov">
-						<img src="img/lic2.jpg" alt="" class="resp-img">
-						<div class="team-desc item-layer">
-						  <div class="vertical-align w-full">
-							<h4 class="h4"><a>Martha Jones</a></h4>
-							  <span>Design Lead</span>
-						  </div>	  
-						</div>
-					 </div>
-				    </div>
-				  </div>
-				  <div class="swiper-slide">
-				    <div class="padd-wrap wow zoomIn" data-wow-delay="0.6s">
-					 <div class="team-item item-hov">
-						<img src="img/lic3.jpg" alt="" class="resp-img">
-						<div class="team-desc item-layer">
-						  <div class="vertical-align w-full">
-							<h4 class="h4"><a>Martha Jones</a></h4>
-							  <span>Design Lead</span>
-						  </div>	  
-						</div>
-					 </div>
-					</div>
-				  </div>
-			   </div>
-		     </div>
-		   </div>
-		 </div>
-		 <div class="pagination point-style alb-point"></div>		
-		</section> 
+<section class="section poind-closest border-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-sm-3">
+                <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
+                    <div class="sub-title">
+                        <h5 class="h5">Equipo</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-10 col-sm-9">
+                <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
+                    <div class="simple-text md">
+                        <p>We’ve a dedicated team of Qualified Professionals with deep industry experience and technical
+                            expertise to manage a multitude of tasks ranging in complexity and size. </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="swiper-container team-slider" data-autoplay="5000" data-loop="0" data-speed="1000"
+                data-center="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2"
+                data-md-slides="3" data-lg-slides="3" data-add-slides="3">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
+                            <div class="team-item item-hov">
+                                <img src="img/lic.jpg" alt="" class="resp-img">
+                                <div class="team-desc item-layer">
+                                    <div class="vertical-align w-full">
+                                        <h4 class="h4"><a>Martha Jones</a></h4>
+                                        <span>Design Lead</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="padd-wrap wow zoomIn" data-wow-delay="0.4s">
+                            <div class="team-item item-hov">
+                                <img src="img/lic2.jpg" alt="" class="resp-img">
+                                <div class="team-desc item-layer">
+                                    <div class="vertical-align w-full">
+                                        <h4 class="h4"><a>Martha Jones</a></h4>
+                                        <span>Design Lead</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="padd-wrap wow zoomIn" data-wow-delay="0.6s">
+                            <div class="team-item item-hov">
+                                <img src="img/lic3.jpg" alt="" class="resp-img">
+                                <div class="team-desc item-layer">
+                                    <div class="vertical-align w-full">
+                                        <h4 class="h4"><a>Martha Jones</a></h4>
+                                        <span>Design Lead</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="pagination point-style alb-point"></div>
+</section>
 <!-- Dream Team finaliza -->
 
 <!-- Contacto Whatsapp -->
@@ -477,7 +504,7 @@
                         <p>We’re always excited for New Projects and partners. So, hit
                             us up with an email or just just say Hello.</p>
                     </div>
-                   
+
                 </div>
             </div>
             <div class="col-md-7 col-sm-12">
@@ -509,7 +536,7 @@
 <div class="modal fade" id="modal1" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-        
+
             <div class="modal-body">
                 <div class="container-fluid">
                     <div class="row">
@@ -521,7 +548,7 @@
 
                         </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
+                            <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="col-md-6 ml-auto">
                             <!-- derecha -->
@@ -536,22 +563,24 @@
                             <div class="sub-title2">
 
                                 <span style="font-size: 2rem;">
-                                <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
-                                <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
-                                <a class="botonwhats" href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i class="fab fa-whatsapp-square"></i></a> 
-                                
-                            </div>
-                                    
+                                    <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
+                                    <a class="botonwhats"
+                                        href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i
+                                            class="fab fa-whatsapp-square"></i></a>
+
                             </div>
 
                         </div>
-                    </div>
 
+                    </div>
                 </div>
+
             </div>
         </div>
-
     </div>
+
+</div>
 </div>
 
 

@@ -20,7 +20,7 @@
                         <div class="sub-title">
                             <h5 class="h5">Intro</h5>
                         </div>
-                        <h1 class="h1">Gone<br> are the days</h1>
+                        <h1 class="h1">Tus accesorios<br> ¡Hablar&aacute;n por ti!</h1>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                         <div class="sub-title">
                             <h5 class="h5">Intro</h5>
                         </div>
-                        <h2 class="h1">True<br> color in you</h2>
+                        <h2 class="h1">El poder <br> de la tercera pieza</h2>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                         <div class="sub-title">
                             <h5 class="h5">Intro</h5>
                         </div>
-                        <h2 class="h1">Beauty <br>in the details</h2>
+                        <h2 class="h1">Potencia <br>tu estilo</h2>
                     </div>
                 </div>
             </div>
@@ -298,7 +298,7 @@
     <div class="bg fx" style="background-image:url(img/ban1.jpeg)"></div>
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
-        <h2 class="textbanner">¡Lo quiero todo! | Encuentra nuestra colecci&oacute;n verano-otoño 2020 </h2>
+            <h2 class="textbanner">¡Lo quiero todo! | Encuentra nuestra colecci&oacute;n verano-otoño 2020 </h2>
         </div>
     </div>
 </section>
@@ -376,9 +376,10 @@
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 
-            <h6 class="h2 title">Comparte tu experiencia ÁMBAR</h6>
+            <h6 class="h2 title">¡AMAMOS TU ESTILO!</h6>
             <div class="">
-                <p class="textbanner">Mándanos una foto utilizando tus accesorios ÁMBAR</p>
+                <p class="textbanner">Siempre en búsqueda de mostrar
+                    quiénes somos con lo que portamos</p>
             </div>
 
 
@@ -428,7 +429,10 @@
             <div class="col-md-10 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text md">
-                        <p>Unimos esfuerzos y talentos para hacerte lucir espectacular con nuestros accesorios.</p>
+                        <p> Unimos esfuerzos y talentos para hacerte lucir espectacular con nuestros accesorios.
+                            Estamos convencidos de que una tercera pieza sumada a un outfit puede generar más confianza
+                            en mostrarnos como somos.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -444,8 +448,8 @@
                                 <img src="img/lic.jpg" alt="" class="resp-img">
                                 <div class="team-desc item-layer">
                                     <div class="vertical-align w-full">
-                                        <h4 class="h4"><a>Martha Jones</a></h4>
-                                        <span>Design Lead</span>
+                                        <h4 class="h4"><a>Cinthia Flores</a></h4>
+                                        <span>Fundadora y Directora de Arte/Creativo</span>
                                     </div>
                                 </div>
                             </div>
@@ -457,8 +461,8 @@
                                 <img src="img/lic2.jpg" alt="" class="resp-img">
                                 <div class="team-desc item-layer">
                                     <div class="vertical-align w-full">
-                                        <h4 class="h4"><a>Martha Jones</a></h4>
-                                        <span>Design Lead</span>
+                                        <h4 class="h4"><a>Allan García</a></h4>
+                                        <span>Fundador y Director Administrativo</span>
                                     </div>
                                 </div>
                             </div>
@@ -470,8 +474,8 @@
                                 <img src="img/lic3.jpg" alt="" class="resp-img">
                                 <div class="team-desc item-layer">
                                     <div class="vertical-align w-full">
-                                        <h4 class="h4"><a>Martha Jones</a></h4>
-                                        <span>Design Lead</span>
+                                        <h4 class="h4"><a>Miroslava Muñoz</a></h4>
+                                        <span>Fundadora y Directora de Publicidad</span>
                                     </div>
                                 </div>
                             </div>
@@ -485,7 +489,7 @@
 </section>
 <!-- Dream Team finaliza -->
 
-<!-- Contacto Whatsapp -->
+<!-- Formulario -->
 <section class="section margincontacto section-scroll" style="background-color: #C89FEB;" id="contacto">
     <div class="container">
         <div class="row">
@@ -499,7 +503,10 @@
             <div class="col-md-3 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text lg">
-                        <p>Ponte en contacto con nosotros, realiza tu pedido mediante el formulario. </p>
+                        <p>Si quieres saber más de nosotros o ponerte en contacto, escríbenos.
+
+                        </p>
+                        <p>Realiza tu pedido mediante el formulario. </p>
                     </div>
 
                 </div>
@@ -524,9 +531,7 @@
         </div>
     </div>
 </section>
-<!-- Contacto Whatsapp finaliza -->
-
-
+<!-- Formulario finaliza -->
 
 
 <!-- Modal -->

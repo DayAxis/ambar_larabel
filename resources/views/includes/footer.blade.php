@@ -7,8 +7,9 @@
                     <p class="h7 text-center sloganFooter ">Tu complemento perfecto</p>
                 </a>
                 <div class="folow-icon">
-                    <a class="" href=""><i class="fab fa-facebook"></i></a>
-                    <a class="" href=""><i class="fab fa-instagram"></i></a>
+                    <a class="" href="https://www.facebook.com/ambaraccesoriospachuca" target="_blank"><i class="fab fa-facebook"></i></a>
+                    <a class="" href="https://www.instagram.com/ambar.trend" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <!-- 56 1797 2312-->
                 </div>
             </div>
         </div>

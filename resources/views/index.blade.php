@@ -298,7 +298,7 @@
     <div class="bg fx" style="background-image:url(img/ban1.jpeg)"></div>
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
-
+        <h2 class="textbanner">¡Lo quiero todo! | Encuentra nuestra colecci&oacute;n verano-otoño 2020 </h2>
         </div>
     </div>
 </section>
@@ -311,13 +311,13 @@
             <div class="col-md-2 col-sm-3">
                 <div class="title-style-2 text-next wow zoomIn" data-wow-delay="0.2s">
                     <div class="sub-title">
-                        <h5 class="h5">Como comprar</h5>
+                        <h5 class="h5">C&oacute;mo comprar</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-10 col-sm-9">
                 <div class="quote wow zoomIn" data-wow-delay="0.3s">
-                    <p>“Siempre he pesnado en los accesorios, como el punto de exclamacion de un oufit femenino.”
+                    <p>“Siempre he pensado en los accesorios, como el punto de exclamaci&oacute;n de un oufit femenino.”
                     </p>
                     <h6 class="h6">- Michael Kors</h6>
                 </div>
@@ -376,9 +376,9 @@
     <div class="container">
         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 
-            <h6 class="h2 title">banner2</h6>
+            <h6 class="h2 title">Comparte tu experiencia ÁMBAR</h6>
             <div class="">
-                <p class="textbanner">banner2</p>
+                <p class="textbanner">Mándanos una foto utilizando tus accesorios ÁMBAR</p>
             </div>
 
 
@@ -428,10 +428,8 @@
             <div class="col-md-10 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text md">
-                        <p>We’ve a dedicated team of Qualified Professionals with deep industry experience and technical
-                            expertise to manage a multitude of tasks ranging in complexity and size. </p>
+                        <p>Unimos esfuerzos y talentos para hacerte lucir espectacular con nuestros accesorios.</p>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -501,8 +499,7 @@
             <div class="col-md-3 col-sm-9">
                 <div class="item-padd-mob wow zoomIn" data-wow-delay="0.4s">
                     <div class="simple-text lg">
-                        <p>We’re always excited for New Projects and partners. So, hit
-                            us up with an email or just just say Hello.</p>
+                        <p>Ponte en contacto con nosotros, realiza tu pedido mediante el formulario. </p>
                     </div>
 
                 </div>
@@ -513,7 +510,7 @@
                     <input placeholder="Tu nombre" class="input-field" name="name" required="" type="text">
                     <input placeholder="Correo" class="input-field" name="email" required="" type="email">
                     <textarea placeholder="Mensaje" class="input-field" name="message"></textarea>
-                    <input value="Send" class="input-send submit margin" type="submit" name="submit">
+                    <input value="Enviar" class="input-send submit margin" type="submit" name="submit">
                 </form>
                 <div class="success">
                     <div class="popup">
@@ -564,7 +561,6 @@
 
                                 <span style="font-size: 2rem;">
                                     <a class="botonfacebook" href="#"><i class="fab fa-facebook-square"></i></a>
-                                    <a class="botontwitter" href="#"><i class="fab fa-twitter-square"></i></a>
                                     <a class="botonwhats"
                                         href="https://api.whatsapp.com/send?phone=+5215532004667&text=hola"><i
                                             class="fab fa-whatsapp-square"></i></a>

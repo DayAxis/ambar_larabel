@@ -496,6 +496,8 @@ p {
 }
 
 .h1 {
+    -webkit-text-stroke: 2px black;
+    color: #EF5B5B;
     font-size: 72px;
     line-height: 80px;
     font-weight: 700;

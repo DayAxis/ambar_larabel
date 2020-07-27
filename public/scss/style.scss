@@ -496,7 +496,7 @@ p {
 }
 
 .h1 {
-    -webkit-text-stroke: 1px black;
+    -webkit-text-stroke: 1px #426C6E;
     color: #EF5B5B;
     font-size: 72px;
     line-height: 80px;
@@ -3856,7 +3856,9 @@ textarea.input-field {
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* 09 - BLOG PAGE */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
-
+.service-item .iconoItem{
+    width: 50px; height: 50px;
+}
 .video-item {
     height: 255px;
     position: relative;

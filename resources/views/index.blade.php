@@ -326,7 +326,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-12 col-xs-12">
                 <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                    <img src="img/service_icon_1.png" alt="">
+                    <img class="iconoItem" src="assets/Iconos/diamond-ring.svg" alt="">
                     <div class="title">
                         <h4 class="h4">Elige tu accesorio:</h4>
                     </div>
@@ -340,7 +340,7 @@
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12">
                 <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                    <img src="img/service_icon_1.png" alt="">
+                    <img class="iconoItem" src="assets/Iconos/pin.svg" alt="">
                     <div class="title">
                         <h4 class="h4">Punto de entrega:</h4>
                     </div>
@@ -353,7 +353,7 @@
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12">
                 <div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-                    <img src="img/service_icon_1.png" alt="">
+                    <img class="iconoItem" src="assets/Iconos/pay.svg" alt="">
                     <div class="title">
                         <h4 class="h4">Método de pago:</h4>
                     </div>

@@ -511,12 +511,28 @@
 
                 </div>
             </div>
+
             <div class="col-md-7 col-sm-12">
                 <form action="/" onsubmit="return submitForm();" method="post" name="contactform"
                     class="contact-form wow zoomIn" data-wow-delay="0.6s" id="contact-form">
-                    <input placeholder="Tu nombre" class="input-field" name="name" required="" type="text">
-                    <input placeholder="Correo" class="input-field" name="email" required="" type="email">
+                    <!-- Nombre -->    
+                    <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tu Nombre"
+                        name="nombre" id="nombre" maxlength="50" require>
+                    <!-- Telefono -->
+                    <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tu Cel. "
+                        name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
+                    <!-- Email -->    
+                    <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tu Email"
+                        name="correo" id="email" maxlength="100" require>
+                    <!-- Mensaje -->
                     <textarea placeholder="Mensaje" class="input-field" name="message"></textarea>
+                    Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del
+                    archivo no
+                    debe exceder 15000 Kb &oacute; 15 Mb):
+                    <!-- Archivo -->
+                    <input type="file" id="adjunto" name="adjunto" class="form-control"
+                        onchange="validarArchivo(this);" />
+                    <!--Boton -->    
                     <input value="Enviar" class="input-send submit margin" type="submit" name="submit">
                 </form>
                 <div class="success">
@@ -528,6 +544,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </div>
 </section>

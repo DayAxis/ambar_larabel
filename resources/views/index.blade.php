@@ -514,6 +514,7 @@
 
             <div class="col-md-7 col-sm-12" data-token="{{ csrf_token() }}">
                 <form action="/" method="post" id="myForm" enctype="multipart/form-data">
+                    @csrf
                     <!-- Nombre -->    
                     <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tu Nombre"
                         name="nombre" id="nombre" maxlength="50" require>

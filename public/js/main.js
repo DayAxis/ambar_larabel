@@ -8,10 +8,10 @@ $( "#submit" ).click(function() {
       var formData = new FormData(form);
 
       formData.append('captcha',grecaptcha.getResponse());
-      formData.append('token',"");
+      formData.append('token',$(".token").data('token'));
 
       $.ajax({
-          url: "includes/validacion.php",
+          url: "page.contacto.registro",
           type: "POST",
           data: formData,
           contentType: false,

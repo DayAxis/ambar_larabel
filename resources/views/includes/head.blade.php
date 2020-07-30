@@ -12,7 +12,8 @@
             <meta property="og:image" content="img/carrusel1.jpg" />
             <meta property="og:image" content="img/carrusel2.jpg" />
             <meta property="og:image" content="img/carrusel3.jpg" />
-            
+            <base href="{{ url('/public') }}">
+            <meta name="csrf-token" content="{{ csrf_token() }}"/>
             <!-- style -->
             <link rel="stylesheet" type="text/css" href="css/fontello.css" />
             <link rel="stylesheet" type="text/css" href="css/animate.css" />

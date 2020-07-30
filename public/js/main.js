@@ -3,6 +3,37 @@
 //  -José Armando Moreno Tolentino.
 //  -Juan Miguel Días Teran.
 
+$( "#submit" ).click(function() {
+    var form = $('form')[0]; // You need to use standard javascript object here
+      var formData = new FormData(form);
+
+      formData.append('captcha',grecaptcha.getResponse());
+      formData.append('token',"");
+
+      $.ajax({
+          url: "includes/validacion.php",
+          type: "POST",
+          data: formData,
+          contentType: false,
+          processData: false,
+          success: function (alerta) {
+             
+              alerta = $.parseJSON(alerta);
+              console.log(alerta);
+              Swal.fire(
+              alerta['acceso'],
+              alerta['mensaje'],
+              alerta['tipoAlerta']
+              )
+              if (alerta['tipoAlerta'] === "success") {
+                  document.getElementById("myForm").reset();    
+              }
+              $submitButton = document.getElementById("post").value;
+          }
+      });
+
+});
+
 function validaNumericos(event) {
     if(event.charCode >= 48 && event.charCode <= 57){
         return true;

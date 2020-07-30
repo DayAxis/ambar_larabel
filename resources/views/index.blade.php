@@ -512,9 +512,8 @@
                 </div>
             </div>
 
-            <div class="col-md-7 col-sm-12">
-                <form action="/" onsubmit="return submitForm();" method="post" name="contactform"
-                    class="contact-form wow zoomIn" data-wow-delay="0.6s" id="contact-form">
+            <div class="col-md-7 col-sm-12" data-token="{{ csrf_token() }}">
+                <form action="/" method="post" id="myForm" enctype="multipart/form-data">
                     <!-- Nombre -->    
                     <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tu Nombre"
                         name="nombre" id="nombre" maxlength="50" require>
@@ -532,8 +531,10 @@
                     <!-- Archivo -->
                     <input type="file" id="adjunto" name="adjunto" class="form-control"
                         onchange="validarArchivo(this);" />
+                    <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
+                        id="rcaptcha" style="margin-left: 90px;"></div>
                     <!--Boton -->    
-                    <input value="Enviar" class="input-send submit margin" type="submit" name="submit">
+                    <input id="submit" value="Enviar" class="input-send submit margin" type="button" name="submit">
                 </form>
                 <div class="success">
                     <div class="popup">

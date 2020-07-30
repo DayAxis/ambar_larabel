@@ -8,3 +8,4 @@
 		<script src="js/jquey.min.js" type="text/javascript"></script><!--boostrap 3.3.6 --> 
 		<script src="js/main.js" type="text/javascript"></script><!--validacion 28/jul/2020 -->
 		<script src="js/sweetalert2.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>

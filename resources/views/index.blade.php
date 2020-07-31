@@ -542,10 +542,10 @@
                             onchange="validarArchivo(this);" />
                         </div>
 
-                        <div class="g-recaptcha col-sm-12 col-md-12 form-item" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
+                        <div class="g-recaptcha col-sm-12 col-md-6 form-item " data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
                             id="rcaptcha" style="margin-left: 0px;"></div>
-                        <div class="col-sm-12 col-md-12 form-item">
-                            <input id="submit" value="Enviar" class="input-send submit margin" type="button" name="submit">
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input id="submit" value="Enviar" class="input-send submit margin form-control" type="button" name="submit">
                         </div>
                         <!--Boton -->    
                         

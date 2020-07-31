@@ -4,11 +4,12 @@
 //  -Juan Miguel Días Teran.
 
 $( "#submit" ).click(function() {
+    console.log("submit1");
     var form = $('form')[0]; // You need to use standard javascript object here
       var formData = new FormData(form);
 
       formData.append('captcha',grecaptcha.getResponse());
-      formData.append('token',$(".token").data('token'));
+      formData.append('_token',$(".token").data('token'));
 
       $.ajax({
           url: "page.contacto.registro",
@@ -16,8 +17,10 @@ $( "#submit" ).click(function() {
           data: formData,
           contentType: false,
           processData: false,
-          success: function (alerta) {
-             
+          success: function (alerta) 
+          {
+            console.log("submit2");
+             /*
               alerta = $.parseJSON(alerta);
               console.log(alerta);
               Swal.fire(
@@ -29,6 +32,7 @@ $( "#submit" ).click(function() {
                   document.getElementById("myForm").reset();    
               }
               $submitButton = document.getElementById("post").value;
+              */
           }
       });
 

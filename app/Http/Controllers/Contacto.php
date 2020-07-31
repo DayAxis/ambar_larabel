@@ -6,11 +6,17 @@ use Illuminate\Http\Request;
 
 class Contacto extends Controller
 {
-    public function index ()
+    public function index (Request $request)
     {
-        //return view('index');
-        echo "si funciono perro";
+        echo "hola";
+        $contacto = $request->all();
+        dd($contacto);
+        //$numero_pedido = $pedido['numero_pedido'];
+        //$pedido['cliente']['email']
+        //echo "si funciono perro";
     }
-    
-
+    public function inicio ()
+    {
+        echo "hola";
+    }
 }

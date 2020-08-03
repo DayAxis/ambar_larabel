@@ -23,6 +23,7 @@ $( "#submit" ).click(function() {
              /*
               alerta = $.parseJSON(alerta);
               console.log(alerta);
+              
               Swal.fire(
               alerta['acceso'],
               alerta['mensaje'],

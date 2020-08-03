@@ -511,8 +511,8 @@
 
                 </div>
             </div>
-
-            <div class="col-md-7 col-sm-12" data-token="{{ csrf_token() }}">
+            <!--page.contacto.registro-->
+            <div class="col-md-7 col-sm-12" id="url" data-url="{{URL::to('pcontacto')}}">
                 <form action="/" method="post" id="myForm" enctype="multipart/form-data">
                     @csrf
                     <!-- Nombre -->   

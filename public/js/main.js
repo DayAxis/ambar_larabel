@@ -9,10 +9,10 @@ $( "#submit" ).click(function() {
       var formData = new FormData(form);
 
       formData.append('captcha',grecaptcha.getResponse());
-      formData.append('_token',$(".token").data('token'));
-
+      var url=$("#url").data('url');
+      console.log(url);
       $.ajax({
-          url: "page.contacto.registro",
+          url: url,
           type: "POST",
           data: formData,
           contentType: false,
@@ -23,7 +23,7 @@ $( "#submit" ).click(function() {
              /*
               alerta = $.parseJSON(alerta);
               console.log(alerta);
-              
+
               Swal.fire(
               alerta['acceso'],
               alerta['mensaje'],

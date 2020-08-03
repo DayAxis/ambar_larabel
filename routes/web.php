@@ -21,3 +21,6 @@ Route::get('/db', function () {
     return view('holamundo');
 });
 
+//Route::post('/pcontacto', ['as' => 'page.contacto.registro', 'uses' => 'ContactController@postContacto']);
+Route::post('/pcontacto', ['as' => 'page.contacto.registro', 'uses' => 'Contacto@inicio']);
+//Route::get('/pcontacto1', ['as' => 'page.contacto.registro1', 'uses' => 'Contacto@inicio']);

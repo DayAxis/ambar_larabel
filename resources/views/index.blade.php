@@ -511,13 +511,45 @@
 
                 </div>
             </div>
-            <div class="col-md-7 col-sm-12">
-                <form action="/" onsubmit="return submitForm();" method="post" name="contactform"
-                    class="contact-form wow zoomIn" data-wow-delay="0.6s" id="contact-form">
-                    <input placeholder="Tu nombre" class="input-field" name="name" required="" type="text">
-                    <input placeholder="Correo" class="input-field" name="email" required="" type="email">
-                    <textarea placeholder="Mensaje" class="input-field" name="message"></textarea>
-                    <input value="Enviar" class="input-send submit margin" type="submit" name="submit">
+
+            <div class="col-md-7 col-sm-12" data-token="{{ csrf_token() }}">
+                <form action="/" method="post" id="myForm" enctype="multipart/form-data">
+                    @csrf
+                    <!-- Nombre -->   
+                   
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre" name="nombre" id="nombre" maxlength="50" require="">
+                        </div>
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress="return validaNumericos(event)" require="">
+                        </div>
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*E-mail" name="email" id="email" maxlength="50" require="">
+                        </div>
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Dirección" name="direccion" id="direccion" maxlength="100" require="">
+                        </div>
+                        <div class="col-sm-12 col-md-12 form-item">
+                            <textarea placeholder="Mensaje" class="input-field form-control " name="message"></textarea>
+                        </div>
+                        <div class="col-sm-12 col-md-12 form-item">
+                            Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del
+                            archivo no
+                            debe exceder 15000 Kb &oacute; 15 Mb):
+                            <!-- Archivo -->
+                            <input type="file" id="adjunto" name="adjunto" class="form-control"
+                            onchange="validarArchivo(this);" />
+                        </div>
+
+                        <div class="g-recaptcha col-sm-12 col-md-6 form-item " data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
+                            id="rcaptcha" style="margin-left: 0px;"></div>
+                        <div class="col-sm-12 col-md-6 form-item">
+                            <input id="submit" value="Enviar" class="input-send submit margin form-control" type="button" name="submit">
+                        </div>
+                        <!--Boton -->    
+                        
+                    </div>
                 </form>
                 <div class="success">
                     <div class="popup">
@@ -528,6 +560,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </div>
 </section>

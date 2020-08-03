@@ -19,21 +19,17 @@ $( "#submit" ).click(function() {
           processData: false,
           success: function (alerta) 
           {
-            console.log("submit2");
-             /*
-              alerta = $.parseJSON(alerta);
-              console.log(alerta);
-
+            
+            console.log(alerta);
               Swal.fire(
-              alerta['acceso'],
-              alerta['mensaje'],
-              alerta['tipoAlerta']
+              alerta.acceso,
+              alerta.mensaje,
+              alerta.tipoAlerta
               )
               if (alerta['tipoAlerta'] === "success") {
                   document.getElementById("myForm").reset();    
               }
-              $submitButton = document.getElementById("post").value;
-              */
+              //$submitButton = document.getElementById("post").value;
           }
       });
 

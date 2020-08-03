@@ -525,13 +525,13 @@
                             <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress="return validaNumericos(event)" require="">
                         </div>
                         <div class="col-sm-12 col-md-6 form-item">
-                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*E-mail" name="email" id="email" maxlength="50" require="">
+                            <input type="text" class="form-control bordesInputContacto m-3" placeholder="*E-mail" name="correo" id="email" maxlength="50" require="">
                         </div>
                         <div class="col-sm-12 col-md-6 form-item">
                             <input type="text" class="form-control bordesInputContacto m-3" placeholder="*Dirección" name="direccion" id="direccion" maxlength="100" require="">
                         </div>
                         <div class="col-sm-12 col-md-12 form-item">
-                            <textarea placeholder="Mensaje" class="input-field form-control " name="message"></textarea>
+                            <textarea placeholder="Mensaje" class="input-field form-control " name="mensaje"></textarea>
                         </div>
                         <div class="col-sm-12 col-md-12 form-item">
                             Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del

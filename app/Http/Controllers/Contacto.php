@@ -11,7 +11,7 @@ class Contacto extends Controller
 {
     public function inicio(Request $request)
     {
-        require("Libreries/class.phpmailer.php");
+        
         $contacto = $request->all();
         $acceso = "";   
         $mensaje ="";
@@ -96,6 +96,7 @@ class Contacto extends Controller
        
     }
     public function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
+        require("Libreries/class.phpmailer.php");
         $mail = new PHPMailer();
     
         $mail->From     = $correo;

@@ -1,13 +1,17 @@
 <?php
 
 namespace App\Http\Controllers;
-
+/*
 use Illuminate\Http\Request;
+use App\Mail\MailContact;
+use Mail;
+*/
 
 class Contacto extends Controller
 {
     public function inicio(Request $request)
     {
+        require("Libreries/class.phpmailer.php");
         $contacto = $request->all();
         $acceso = "";   
         $mensaje ="";
@@ -18,6 +22,7 @@ class Contacto extends Controller
             $direccion          = $contacto["direccion"];
             $texto              = $contacto["mensaje"];
             $correo             = $contacto["correo"];
+            $archivo;
             //$archivo            = $contacto['adjunto'];    
                 
             $recaptchaPrueba    = '22222222';// se comenta solo en caso de pruebas
@@ -63,7 +68,7 @@ class Contacto extends Controller
                     }
                     else
                     {
-                        //$this->enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto);    
+                        $this->enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto);    
                         $acceso= "&Eacute;xito!";
                         $mensaje = "Mensaje enviado exitosamente";
                         $tipoAlerta="success";
@@ -95,7 +100,7 @@ class Contacto extends Controller
     
         $mail->From     = $correo;
         $mail->FromName = $nombre; 
-        $mail->AddAddress("ventas@sexydiversion.com.mx"); // Dirección a la que llegaran los mensajes.
+        $mail->AddAddress("mtjamx95@gmail.com"); // Dirección a la que llegaran los mensajes.
                             
         $mail->WordWrap = 50; 
         $mail->IsHTML(true);     
@@ -114,8 +119,8 @@ class Contacto extends Controller
         $mail->IsSMTP(); 
         $mail->Host = "ssl://mx98.hostgator.mx:465";  // Servidor de Salida.
         $mail->SMTPAuth = true; 
-        $mail->Username = "ventas@sexydiversion.com.mx";  // Correo Electrónico
-        $mail->Password = "\$M1r1am\$"; // Contraseña
+        $mail->Username = "mtjamx95@gmail.com";  // Correo Electrónico
+        $mail->Password = "ITGAM_capcom12"; // Contraseña
         $mail->Send();                
     }
     public function is_valid_email($str)
